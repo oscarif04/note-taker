@@ -1,10 +1,6 @@
 
   # Note Taker
 
-  renderLicenseBadge()
-  renderLicenseLink()
-  renderLicenseSection()
-
   ## Description
 
   Simple app that help the user write notes with a given title and notes inside that specific note element
