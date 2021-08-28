@@ -1,7 +1,6 @@
 
   # Note Taker
   
-  [WATCH VIDEO HERE](https://youtu.be/r0AuHsUZaTg)
 
   ## Description
 
